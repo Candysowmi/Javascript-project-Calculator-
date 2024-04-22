@@ -1,0 +1,35 @@
+body{
+    background-image: url(./pic/top-view-calculator-notebook-frame_23-2149103980.avif);
+    background-size: cover;
+}
+.container{
+    display: grid;
+    grid-template-rows: 200px 200px 200px;
+    grid-template-columns: 200px 200px ;
+    gap: 70px 70px;
+    margin-left:250px;
+    margin-top: 50px;
+    
+}
+a{
+    background-color:rgb(153, 215, 215);
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+    text-decoration: none;
+    box-shadow: 3px 3px 4px  rgb(122, 177, 177);
+    text-shadow: 2px 2px 3px white; 
+}
+a:hover{
+    background-color: rgb(122, 177, 177) ;
+}
+h1{
+   
+    padding-top: 30px;
+    color: rgb(39, 44, 44);
+    padding-left: 350px;
+    text-shadow: 2px 2px 3px rgb(122, 177, 177)  ;
+    
+ 
+
+}

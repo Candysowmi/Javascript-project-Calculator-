@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(75, 75, 110);
+}
+div{
+    border:1px solid white;
+    background-color: rgb(230, 228, 246);
+    width:300px;
+    height: 400px;
+    padding-left:40px;
+    padding-top: 0px;
+    margin-left:550px;
+    margin-top: 200px;
+   padding-right: 40px;
+}
+input[type=number]{
+    width:300px;
+    height: 25px;
+}
+label{
+    font-size:larger;
+    font-weight: 500;
+}
+button{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:rgb(75, 75, 110) ;
+    color: white;
+
+}
